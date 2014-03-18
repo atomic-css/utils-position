@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Position utilities
+   ========================================================================== */
+
+/**
+ * Relative
+ */
+
+.u-relative {
+  position: relative !important;
+}
+
+/**
+ * Absolute
+ */
+
+.u-absolute {
+  position: absolute !important;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "utils-position",
+  "repo": "atomic-css/utils-position",
+  "description": "Utilities for positioning CSS",
+  "version": "1.0.0",
+  "styles": [
+    "position.css"
+  ],
+  "author": "Lukáš Mladý",
+  "license": "MIT"
+}
